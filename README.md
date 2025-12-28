@@ -7,6 +7,8 @@ The project uses sales opportunity data to track revenue, deal outcomes (won vs 
 Through this project, key insights were derived related to seasonal sales trends, conversion efficiency, sales agent contribution, and product effectiveness. The project demonstrates the practical use of Excel and Power BI for cleaning data, creating KPIs, and building business-friendly dashboards to support data-driven decision making.
 
 [Click here to view Live Dashboard](https://app.powerbi.com/reportEmbed?reportId=e812e595-95b2-477b-924c-f9932381e087&autoAuth=true&ctid=3ffff7b6-7ef4-4fa4-8fea-798ab0455714)
+
+
 ## Table of content
 1. [About the company](#about-the-company)
 2. [Client Requirements & Objective](#client-requirements--objective)
