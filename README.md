@@ -6,6 +6,15 @@ The project uses sales opportunity data to track revenue, deal outcomes (won vs 
 
 Through this project, key insights were derived related to seasonal sales trends, conversion efficiency, sales agent contribution, and product effectiveness. The project demonstrates the practical use of Excel and Power BI for cleaning data, creating KPIs, and building business-friendly dashboards to support data-driven decision making.
 
+## Table of content
+1. [About the company](#about-the-company)
+2. [Client Requirements & Objective](#client-requirements--objective)
+3. [Primary Goals of the Analysis](#primary-goals-of-the-analysis)
+4. [Datasets used for this Project](#datasets-used-for-this-project)
+5. [Tools and Techniques Used](#tools-and-techniques-used)
+6. [Sales Performance](#sales-performance)
+7. [Team Performance](#team--product-performance)
+
 ## About the company
 B2B sales pipeline data from a Maven company that sells computer hardware, including information on accounts, products, sales teams, and sales opportunities. 
 
@@ -16,6 +25,8 @@ The Chief of Maven company, has tasked the Data analytics team with conducting a
 -	Sales performance: Analyze sales agent performance compared to the rest and any sales agent lagging behind.
 -	Team & product performance: Analyze quarter-over-quarter trends and any products have better win rates.
 
+[Home](#table-of-content)
+
 ## Datasets used for this Project:
 This project is based on sales pipeline data collected from 2016 to 2017. The dataset consists of three separate spreadsheets:
 1.	Products: 
@@ -25,6 +36,9 @@ This project is based on sales pipeline data collected from 2016 to 2017. The da
 3.	Sales teams: 
 -	This sheet captures sales agents details their name, their manager, regional office (which region there are working).
 The dataset helps analyze key trends in Sales pipeline, region wise, and sales agent performance, forming the foundation for insights.
+
+[Home](#table-of-content)
+
 
 ## Tools and Techniques Used:
 ### Tools: 
@@ -40,10 +54,16 @@ The dataset helps analyze key trends in Sales pipeline, region wise, and sales a
 3.	Data Modeling: Establishing relationships between datasets to enhance report functionality.
 4.	Dynamic visuals: Designing interactive charts and graphs for better data storytelling. 
 5.	Bookmarks & Navigation: Improving user experience with seamless report navigation.
+
+[Home](#table-of-content)
+
 ## Sales Performance:
 The Sales Performance dashboard provides an overall view of how the business is performing over time. It focuses on key sales metrics such as total revenue, number of deals closed, win rate, and average time taken to close deals. The dashboard helps track quarter-over-quarter trends and highlights changes in sales activity, efficiency, and conversion rates. It allows stakeholders to quickly understand whether sales performance is improving or declining across different quarters.
 
 ![Sales Performance](screenshots/01_Sales_Performance.png)
+
+[Home](#table-of-content)
+
 
 ## Key insights:
 ### 1.	Sales Performance varies significantly across quarters:
@@ -59,10 +79,15 @@ Even during strong quarter like Q2 and Q3, deal losses are still noticeable. Thi
 ## Conclusion:
 Overall, sales performance shows positive momentum after Q1, with higher revenue and deal activity in later quarters. However, the declining win rate indicates that the sales team focus on improving conversion efficiency while maintaining deal volume. Faster deal closures are a positive sign of operational improvement.
 
+[Home](#table-of-content)
+
+
 ## Team & Product Performance:
 The Team & Product Performance dashboard focuses on identifying who is driving sales results and which products perform better. It compares sales performance across managers, regions, and sales agents, helping to identify top performers as well as underperforming areas. The dashboard also analyses product-level revenue and win rates to understand product effectiveness. This view supports data-driven decisions related to team performance improvement and product sales strategy.
 
 ![Team Performance](screenshots/02_Team_Performance.png)
+
+[Home](#table-of-content)
 
 
 ## Key insights:
@@ -79,6 +104,8 @@ Some products show strong revenue performance but average win rates, while other
 
 ## Conclusion:
 The team and product analysis highlights clear performance differences across managers, sales agents, and products. While a few individuals and products drive most of the success, there is an opportunity to uplift overall performance by addressing underperforming agents and optimizing product sales strategies. Focusing on training, balanced product promotion, and targeted regional strategies could improve results.
+[Home](#table-of-content)
+
 
 
 
